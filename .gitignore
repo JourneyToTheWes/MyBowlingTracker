@@ -1,0 +1,2 @@
+# Ignore Script Python virtual environment
+scripts/.venv/
